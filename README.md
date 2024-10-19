@@ -1,3 +1,10 @@
+![alt text](<Screenshot 2024-10-19 at 12.01.08.png>)
+![alt text](<Screenshot 2024-10-19 at 12.03.11.png>)
+![alt text](<Screenshot 2024-10-19 at 11.53.35 (2).png>)
+![alt text](<Screenshot 2024-10-19 at 12.02.06.png>)
+![alt text](<Screenshot 2024-10-19 at 12.02.36.png>)
+![alt text](<Screenshot 2024-10-19 at 12.02.52.png>)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
