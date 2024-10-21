@@ -60,10 +60,11 @@ const ProductViewer = ({ ...product }: Product) => {
             <CardMedia
               component="img"
               height="500"
-              width={500}
               image={product.images !== undefined ? product.images[0] : ""}
               alt={product.title}
               sx={{
+                width: { xs: 300, sm: 300, md: 300, lg: 300, xl: 500 },
+                height: { xs: 300, sm: 300, md: 300, lg: 300, xl: 500 },
                 objectFit: "contain",
               }}
             />
